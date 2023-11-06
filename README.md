@@ -1,16 +1,5 @@
 # hello_hive
 
-A new Flutter project.
+Implemented basic CRUD operations using Hive Database.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="509" alt="Screenshot 2023-11-06 at 12 51 03 PM" src="https://github.com/gauransh18/helloHive/assets/66783709/bb7db2ef-46ef-43f0-9be0-3eeb8a7f63aa">
